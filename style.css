@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300;400;500;600;700;800&family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.header img{
+    height: 120px;
+    width: 100%;
+}
+
+.title{
+    font-size: 50px;
+    text-align: center;
+    background-color: lightblue;
+}
+
+hr{
+    border: 5px solid lightblue;
+    border-radius: 5px;
+}
+
+.contents{
+    margin-left: 100px;
+    margin-right: 100px;
+    display: flex;
+    text-align: center;
+    font-size: 30px;    
+}
+
+
+.content-row{
+    margin: 20px;
+    width: 100%;
+    padding: 0%;
+}
+
+.content-row img{
+    width: 360px;
+}
